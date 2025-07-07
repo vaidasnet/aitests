@@ -1,0 +1,26 @@
+# Maven build directory
+/target/
+
+# Maven specific files
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+# Maven wrapper binary
+.mvn/wrapper/maven-wrapper.jar
+
+# IDE directories and files
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+
+# Logs
+*.log
